@@ -1,0 +1,11 @@
+## rust 
+
+- Ownership
+
+
+
+
+
+
+## RAII pattern 
+  
